@@ -1,7 +1,7 @@
 import { Box, Paper, Stack, Typography, useTheme } from "@mui/material";
 import Pie from "../../pages/pieChart/pie";
 import React from "react";
-import Bar from "../../pages/barChart/Bar";
+import Bar from "../../pages/barChart/bar";
 import Geo from "../../pages/geography/geo";
 
 const Row3 = () => {
